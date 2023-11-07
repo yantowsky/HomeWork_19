@@ -130,7 +130,7 @@ for (i = num3; i <= num12; i++) {
 document.write("<br>");
 
 // 12. Надрукувати повну таблицю множення від 1 до 10.
-document.write("Завдання #12: <br>");
+document.write("<br>Завдання #12: <br>");
 let res12 = 0;
 for (i = num3; i <= num1; i++) {
   for (j = num3; j <= num1; j++) {
